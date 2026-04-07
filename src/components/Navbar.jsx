@@ -33,7 +33,7 @@ export default function Navbar() {
           </div>
           <div>
             <span className="block font-display font-800 text-white leading-tight text-lg tracking-tight">
-              Plumbing <span className="gradient-text">Solutions</span>
+              Automation <span className="gradient-text">Solutions</span>
             </span>
             <span className="block text-xs text-white/40 leading-tight -mt-0.5">Digital Plumbing Co.</span>
           </div>

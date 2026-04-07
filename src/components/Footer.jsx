@@ -12,7 +12,7 @@ export default function Footer() {
                 </svg>
               </div>
               <div>
-                <span className="block font-display font-800 text-white leading-tight">Plumbing Solutions</span>
+                <span className="block font-display font-800 text-white leading-tight">Automation Solutions</span>
                 <span className="block text-xs text-white/35">Digital Plumbing Co.</span>
               </div>
             </div>
@@ -51,7 +51,7 @@ export default function Footer() {
         <div className="h-px bg-white/5 mb-6" />
 
         <div className="flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-white/25">
-          <p>© 2026 Plumbing Solutions. All rights reserved.</p>
+          <p>© 2026 Automation Solutions. All rights reserved.</p>
           <p>Built in Manchester 🐝 · Powered by AI</p>
         </div>
       </div>
